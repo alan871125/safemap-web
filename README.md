@@ -5,6 +5,7 @@
   
   
   **A smart route planning web application that finds the safest and brightest paths**
+  
   [![Python](https://img.shields.io/badge/Python-3.9.15-blue.svg)](https://python.org)
   [![React](https://img.shields.io/badge/React-17.0.2-61dafb.svg)](https://reactjs.org)
   [![Flask](https://img.shields.io/badge/Flask-3.1.1-green.svg)](https://flask.palletsprojects.com)
@@ -12,9 +13,9 @@
 
 ## Overview
 
-SafeMap Web is an intelligent route planning application that prioritizes safety by analyzing street lighting and surveillance coverage. Unlike traditional routing systems that only consider distance and travel time, SafeMap calculates the **safest routes** by incorporating real-world safety data including streetlight density and security camera coverage.
+SafeMap Web is an intelligent route planning application that prioritizes safety by analyzing street lighting and surveillance coverage. Unlike traditional routing systems that only consider distance and travel time, SafeMap calculates the **safest routes** by incorporating real-world safety data, including streetlight density and security camera coverage.
 
-*This project currently supports only routing within Hsingchu City, Taiwan.*
+*This project currently supports only routing within [Hsinchu City, Taiwan](https://www.google.com/maps/place/新竹市).*
 
 ## Key Features
 - **Safety-First Routing**: Advanced algorithm that balances distance with safety factors
